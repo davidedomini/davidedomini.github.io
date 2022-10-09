@@ -86,15 +86,10 @@ displayrssicon = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
+    name = "Latest Projects"
+    identifier = "latestprojects"
     weight = 200
-    url = "/about/"
+    url = "/latestprojects/"
 [[menu.main]]
     name = "Curriculum Vitae"
     identifier = "curriculumitae"
