@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Davide Domini</title>
-    <link>https://davidedomini.github.io/</link>
-    <description>Recent content on Davide Domini</description>
+    <title>teachingtutor on Davide Domini</title>
+    <link>https://davidedomini.github.io/categories/teachingtutor/</link>
+    <description>Recent content in teachingtutor on Davide Domini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://davidedomini.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Latest Projects</title>
-      <link>https://davidedomini.github.io/latestprojects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://davidedomini.github.io/latestprojects/</guid>
-      <description>Here you can find my latest projects</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://davidedomini.github.io/categories/teachingtutor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching Tutor - Unibo</title>
       <link>https://davidedomini.github.io/teachingtutor/</link>
