@@ -27,7 +27,7 @@ enableRobotsTXT = true
 [params]
 author = "Davide Domini"
 intro = "MSc Student in Computer Engineering and Science"
-description = "University of Bologna @Unibo"
+description = "University of Bologna"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
