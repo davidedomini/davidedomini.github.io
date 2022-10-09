@@ -38,12 +38,12 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "https://github.com/davidedomini"
-instagram = "https://instagram.com/_davidedomini?igshid=YmMyMTA2M2Y="
+github = "davidedomini"
+instagram = "_davidedomini"
 #xing = "<username>"
-linkedin = "https://www.linkedin.com/in/davide-domini-3b9625175/"
-twitter = "https://twitter.com/domini_davide"
-facebook = "https://www.facebook.com/davide.domini.7"
+linkedin = "davide-domini-3b9625175"
+twitter = "domini_davide"
+facebook = "davide.domini.7"
 #google = "<username>"
 #googlescholar = "<account_id>"
 #stackoverflow = "<username>"
