@@ -28,7 +28,7 @@ enableRobotsTXT = true
 author = "Davide Domini"
 intro = "MSc in Computer Engineering and Science"
 description = "University of Bologna @Unibo"
-authorimage = "/img/me.jpeg"
+authorimage = "me.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
