@@ -28,7 +28,7 @@ enableRobotsTXT = true
 author = "Davide Domini"
 intro = "MSc in Computer Engineering and Science"
 description = "University of Bologna @Unibo"
-authorimage = "me.jpeg"
+authorimage = "me2.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -96,7 +96,7 @@ displayrssicon = true
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
+    name = "Curriculum Vitae"
+    identifier = "curriculumitae"
     weight = 300
-    url = "/coderag/"
+    url = "https://www.unibo.it/sitoweb/davide.domini2/cv-en"
