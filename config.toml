@@ -1,3 +1,102 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#baseURL = 'http://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+
+## Basic Configuration
+
+baseurl = "https://davidedomini.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Davide Domini"
+title = "Davide Domini"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Davide Domini"
+intro = "MSc Student in Computer Engineering and Science"
+description = "University of Bologna @Unibo"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "https://github.com/davidedomini"
+instagram = "https://instagram.com/_davidedomini?igshid=YmMyMTA2M2Y="
+#xing = "<username>"
+linkedin = "https://www.linkedin.com/in/davide-domini-3b9625175/"
+twitter = "https://twitter.com/domini_davide"
+facebook = "https://www.facebook.com/davide.domini.7"
+#google = "<username>"
+#googlescholar = "<account_id>"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#buymeacoffee = "<username>"
+#kaggle = "<username>"
+email = "davide.domini2@unibo.it"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2022. Davide Domini. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
