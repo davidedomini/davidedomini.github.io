@@ -90,6 +90,14 @@ displayrssicon = true
     identifier = "latestprojects"
     weight = 200
     url = "/latestprojects/"
+
+## Main Menu
+[[menu.main]]
+    name = "Teaching Tutor"
+    identifier = "teachingtutor"
+    weight = 200
+    url = "/teachingtutor/"
+
 [[menu.main]]
     name = "Curriculum Vitae"
     identifier = "curriculumitae"
