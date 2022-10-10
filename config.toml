@@ -1,7 +1,3 @@
-#baseURL = 'http://example.org/'
-#languageCode = 'en-us'
-#title = 'My New Hugo Site'
-
 ## Basic Configuration
 
 baseurl = "https://davidedomini.github.io"
@@ -28,7 +24,7 @@ enableRobotsTXT = true
 author = "Davide Domini"
 intro = "MSc in Computer Engineering and Science"
 description = "University of Bologna @Unibo"
-authorimage = "me2.jpeg"
+authorimage = "me3.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
