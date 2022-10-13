@@ -14,7 +14,7 @@
       
       <guid>https://davidedomini.github.io/latestprojects/</guid>
       <description>Here you can find my latest projects:
-Racing Simulator: A Formula 1 race simulator, implemented in Scala 3. MVC-Cake-Pattern: An example of usage of cake pattern to implement MVC architectural pattern in Scala 3. SmartCity Pluviometer: A simple application for the monitoring the rainfall level in a smart city, implemented in Scala 3 using Akka cluster. FOOL: Compiler for FOOL, a functional object-oriented language, implemented in Java using ANTLR. </description>
+Racing Simulator MVC-Cake-Pattern SmartCity Pluviometer FOOL </description>
     </item>
     
   </channel>
