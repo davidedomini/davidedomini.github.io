@@ -12,6 +12,7 @@ showpagemeta = false
 
 Here you can find my latest projects:
 
+- [ScaRLib](https://github.com/ScaRLib-group/ScaRLib)
 - [Racing Simulator](https://davidedomini.github.io/pps-22-sim-race/)
 - [MVC-Cake-Pattern](https://github.com/davidedomini/mvc-cake-pattern)
 - [SmartCity Pluviometer](https://github.com/davidedomini/smartcity-pluviometer-akka)
