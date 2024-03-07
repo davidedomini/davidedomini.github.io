@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Davide Domini"
-intro = "MSc in Computer Engineering and Science"
+intro = "PhD student in Computer Engineering and Science"
 description = "University of Bologna @Unibo"
 authorimage = "me5.jpg"
 dateformat = "Jan 2, 2006"
